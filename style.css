@@ -238,8 +238,7 @@ section h2
     display: block;
     margin-bottom: 15px;
 }
-#works .works-box a .works-box-inner 
-{
+#works .works-box a .works-box-inner .button-readmore{
     font-size: 1rem;
     font-weight: bold;
     display: block;
@@ -251,8 +250,7 @@ section h2
     border-radius: 4px;
     background-color: #7abcff;
 }
-#works .works-box a .works-box-inner 
-{
+#works .works-box a .works-box-inner .button-readmore:hover{
     background-color: #000080;
 }
 #works .works-box a:hover .works-box-inner
