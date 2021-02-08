@@ -273,7 +273,7 @@ section h2
     content: '';
 }
 
-contact ul
+#contact ul
 {
     margin-top: 60px;
     text-align: center;
@@ -291,12 +291,12 @@ contact ul
 {
     margin-right: 0;
 }
-#contact ul .twitter,
+#contact ul .github,
 #contact ul .skype
 {
     font-size: 3.2rem;
 }
-#contact ul .twitter i
+#contact ul .github i
 {
     margin-left: 2px;
 }
