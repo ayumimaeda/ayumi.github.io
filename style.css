@@ -272,7 +272,6 @@ section h2
     clear: both;
     content: '';
  }
-
 #contact ul
 {
     margin-top: 60px;
@@ -291,12 +290,12 @@ section h2
 {
     margin-right: 0;
 }
-#contact ul .twitter,
+#contact ul .github,
 #contact ul .skype
 {
     font-size: 3.2rem;
 }
-#contact ul .twitter i
+#contact ul .github i
 {
     margin-left: 2px;
 }
@@ -308,11 +307,11 @@ section h2
     line-height:50px;
     color: #fff;
     border-radius: 50%;
-    background-color: #000080;
+    background-color: #14c0c9;
 }
 #contact ul a:hover
 {
-    background-color: #7abcff;
+    background-color: #0f949b;
 }
 
 footer
