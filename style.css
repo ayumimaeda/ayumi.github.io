@@ -307,11 +307,11 @@ section h2
     line-height:50px;
     color: #fff;
     border-radius: 50%;
-    background-color: #14c0c9;
+    background-color: #000080;
 }
 #contact ul a:hover
 {
-    background-color: #0f949b;
+    background-color: #7abcff;
 }
 
 footer
